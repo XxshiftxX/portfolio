@@ -12,6 +12,19 @@
 - Unity     (중급)
 - Monogame  (중하급)
 ## 프로젝트
-### Tetrun
+### DMS (Domitory Management System)
+> 기숙사 생활에서 필요한 기능을 구현한 프로젝트
+- 팀에서 윈도우 환경에서 급식을 위젯 형태로 확인할 수 있게 하는 윈도우 프로그램의 개발을 맡았음.
+### IP Changer
+> 윈도우의 고정 IP 설정을 위한 프로그램
+- 
 ### LaunchBeat
+### Osu File Analyzer / Simulator
+### Screen Blinder
+### Tag Music
+### 트친소 틀 생성기
+### Discord Bot
+### Tetrun
+### Oblocky
 ### HardcoreDDLC
+### ZennBot
